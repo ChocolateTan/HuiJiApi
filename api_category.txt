@@ -1,0 +1,27 @@
+{
+  status:1,
+  info:"",
+  data:
+  [
+    {
+	  bookName:"月光下的异世界之旅",
+	  bookUrl:"http://smp.yoedge.com/view/omnibus/1000975",
+	  articles:[{articleNo:"1", articleName:"月光下的异世界之旅1"}]
+	},
+	{
+	  bookName:"go to helln",
+	  bookUrl:"http://smp.yoedge.com/view/omnibus/1001176",
+	  articles:[{articleNo:"1", articleName:"go to helln1"}]
+	},
+	{
+	  bookName:"书痴少女，四格漫画",
+	  bookUrl:"http://smp.yoedge.com/view/omnibus/1001175",
+	  articles:[{articleNo:"1", articleName:"书痴少女，四格漫画1"}]
+	},
+	{
+	  bookName:"精神转移冒险记",
+	  bookUrl:"http://smp.yoedge.com/view/omnibus/1000430",
+	  articles:[{articleNo:"1", articleName:"精神转移冒险记1"}]
+	},
+  ]
+}
