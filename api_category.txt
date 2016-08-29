@@ -5,40 +5,230 @@
         {
             "bookName": "月光下的异世界之旅",
             "bookUrl": "http://smp.yoedge.com/view/omnibus/1000975",
-            "articles": [{
-                "articleNo": "1",
-                "articleName": "月光下的异世界之旅1"
-            }]
         },
         {
             "bookName": "go to helln",
-            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001176",
-            "articles": [{
-                "articleNo": "1",
-                "articleName": "go to helln1"
-            }]
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001176"
         },
         {
             "bookName": "书痴少女，四格漫画",
-            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001175",
-            "articles": [
-                {
-                    "articleNo": "1",
-                    "articleName": "书痴少女，四格漫画1"
-                },
-                {
-                    "articleNo": "2",
-                    "articleName": "书痴少女，四格漫画2"
-                }
-            ]
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001175"
         },
         {
             "bookName": "精神转移冒险记",
-            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000430",
-            "articles": [{
-                "articleNo": "1",
-                "articleName": "精神转移冒险记1"
-            }]
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001178"
+        },
+        {
+            "bookName": "the new gate",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000531"
+        },
+        {
+            "bookName": "效率厨魔导师",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000834"
+        },
+        {
+            "bookName": "一不小心转生了",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000618"
+        },
+        {
+            "bookName": "猫耳猫",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000259"
+        },
+        {
+            "bookName": "异世创生录",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000615"
+        },
+        {
+            "bookName": "强者的新传说",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001018"
+        },
+        {
+            "bookName": "姫骑士",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000546"
+        },
+        {
+            "bookName": "百炼霸王与圣约女武神",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001179"
+        },
+        {
+            "bookName": "芋虫",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000206"
+        },
+        {
+            "bookName": "物语中的人",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001181"
+        },
+        {
+            "bookName": "金色的文字使",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001183"
+        },
+        {
+            "bookName": "不过是蜘蛛什么的",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001184"
+        },
+        {
+            "bookName": "白之皇国物语",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001185"
+        },
+        {
+            "bookName": "黑之创造召唤师",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001214"
+        },
+        {
+            "bookName": "再见龙生你好人生",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001248"
+        },
+        {
+            "bookName": "贤者之孙",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001264"
+        },
+        {
+            "bookName": "高一就在异世界当城主",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001275"
+        },
+        {
+            "bookName": "终极反英雄",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001284"
+        },
+        {
+            "bookName": "平凡职业成就世界最强",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001249"
+        },
+        {
+            "bookName": "用制御魔法开荒异世界",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001378"
+        },
+        {
+            "bookName": "热情传说",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000205"
+        },
+        {
+            "bookName": "异界魔王与召唤少女的奴隶魔术",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000865"
+        },
+        {
+            "bookName": "异世界转生骚动",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001459"
+        },
+        {
+            "bookName": "人狼转生",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001501"
+        },
+        {
+            "bookName": "魔拳的妄想者",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001505"
+        },
+        {
+            "bookName": "骑士魔法",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001542"
+        },
+        {
+            "bookName": "S佐渡小姐与M江村君",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001552"
+        },
+        {
+            "bookName": "我和青蛙的异世界流浪记",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001553"
+        },
+        {
+            "bookName": "S佐渡小姐与M江村君",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001552"
+        },
+        {
+            "bookName": "异世界的兽医事业",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001572"
+        },
+        {
+            "bookName": "平凡士兵梦回过去",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001586"
+        },
+        {
+            "bookName": "魔王的秘书",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001587"
+        },
+        {
+            "bookName": "哥布林杀手",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001678"
+        },
+        {
+            "bookName": "掠夺者剥夺者",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001684"
+        },
+        {
+            "bookName": "异世界的二周目人",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001717"
+        },
+        {
+            "bookName": "龙与勇者与邮递员",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001739"
+        },
+        {
+            "bookName": "钱谷君的恋爱只为钱",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001791"
+        },
+        {
+            "bookName": "没卵用的魔兽炼磨师",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001824"
+        },
+        {
+            "bookName": "魔王遇难记",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001838"
+        },
+        {
+            "bookName": "legend",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001869"
+        },
+        {
+            "bookName": "垃圾游戏online",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001899"
+        },
+        {
+            "bookName": "为了女儿击倒魔王",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001933"
+        },
+        {
+            "bookName": "迷宫探索者",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001949"
+        },
+        {
+            "bookName": "异世界支配的skilltaker",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001950"
+        },
+        {
+            "bookName": "自称贤者弟子的贤者",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002009"
+        },
+        {
+            "bookName": "魔王与勇者的业余时间",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002010"
+        },
+        {
+            "bookName": "转生鬼神浪漫谭",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002053"
+        },
+        {
+            "bookName": "布偶最强魔法师的隐遁生活",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002082"
+        },
+        {
+            "bookName": "说好的能力平均值呢",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002097"
+        },
+        {
+            "bookName": "re：monster",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1000873"
+        },
+        {
+            "bookName": "田中是年龄=没女朋友的魔法师",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002020"
+        },
+        {
+            "bookName": "半兽人的女骑士养成计划",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002218"
+        },
+        {
+            "bookName": "说好的能力平均值呢",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002097"
         }
     ]
 }
