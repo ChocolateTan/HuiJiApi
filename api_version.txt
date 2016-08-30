@@ -1,0 +1,10 @@
+﻿{
+    "status": 1,
+    "info": "",
+    "data": {
+        "lastForceUpdate": 0,
+        "versionCode": 1,
+        "versionName": "beta-0.0.9",
+        "updateInfo": [{"info": ""}]
+    }
+}
