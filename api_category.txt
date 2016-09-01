@@ -225,10 +225,6 @@
         {
             "bookName": "半兽人的女骑士养成计划",
             "bookUrl": "http://smp.yoedge.com/view/omnibus/1002218"
-        },
-        {
-            "bookName": "说好的能力平均值呢",
-            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002097"
         }
     ]
 }
