@@ -225,6 +225,30 @@
         {
             "bookName": "半兽人的女骑士养成计划",
             "bookUrl": "http://smp.yoedge.com/view/omnibus/1002218"
+        },
+        {
+            "bookName": "你要不是公主我早揍你了",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002250"
+        },
+        {
+            "bookName": "Only Sense Online",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001101"
+        },
+        {
+            "bookName": "六道的恶女们",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002370"
+        },
+        {
+            "bookName": "异世界式的教育者",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002484"
+        },
+        {
+            "bookName": "在魔王城说晚安",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1001598"
+        },
+        {
+            "bookName": "半兽人的女骑士养成计划",
+            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002218"
         }
     ]
 }
