@@ -245,10 +245,6 @@
         {
             "bookName": "在魔王城说晚安",
             "bookUrl": "http://smp.yoedge.com/view/omnibus/1001598"
-        },
-        {
-            "bookName": "半兽人的女骑士养成计划",
-            "bookUrl": "http://smp.yoedge.com/view/omnibus/1002218"
         }
     ]
 }
