@@ -3,9 +3,9 @@
     "info": "",
     "data": {
         "lastForceUpdate": 3,
-        "versionCode": 3,
-        "versionName": "beta-0.0.92",
-		"updateUrl": "http://pan.baidu.com/s/1mihgHmg",
-        "updateInfo": [{"info": "移除了日漫汇"}]
+        "versionCode": 4,
+        "versionName": "beta-0.0.93",
+		"updateUrl": "http://pan.baidu.com/s/1eRM0o0M",
+        "updateInfo": [{"info": "移除原生控件看漫画，新增收藏功能"}]
     }
 }
